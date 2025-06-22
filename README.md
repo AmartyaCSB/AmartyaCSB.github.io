@@ -1,4 +1,7 @@
-# Chirpy Starter
+## Personal Website of Amartya Achin Mandal: https://amartyacsb.github.io/
+
+#### Forked from:
+#### Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
