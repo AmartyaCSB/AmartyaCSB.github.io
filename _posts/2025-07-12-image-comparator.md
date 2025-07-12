@@ -15,8 +15,8 @@ tags: [Image Comparision, Alignment, Multi-modal, Image alignment, homography, t
 <iframe
   src="https://amartyacsb.github.io/ImageComparator/"
   width="100%"
-  height="1000"
-  frameborder="1"
+  height="750"
+  frameborder="0"
   style="display:block; margin-bottom:1rem;"
   allowfullscreen
 ></iframe>
