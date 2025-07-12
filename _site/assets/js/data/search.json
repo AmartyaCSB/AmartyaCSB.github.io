@@ -1,5 +1,13 @@
 [
   {
+    "title": "Image Comparator",
+    "url": "/posts/image_comparator/",
+    "categories": "Image alignment",
+    "tags": "Image Comparision, Alignment, Multi-modal, Image alignment, homography, transformation, python, homographynet",
+    "date": "2025-07-12 04:25:10 -0400",
+    "content": "Image Comparator for RGB and Thermal (IR) images  Check the image comparator I have built using RGB and Thermal images: Github Link for project  Introduction Image comparator for the image alignmen..."
+  },
+  {
     "title": "Facial Blurring",
     "url": "/posts/facial-blur/",
     "categories": "Facial Blurring, CV",

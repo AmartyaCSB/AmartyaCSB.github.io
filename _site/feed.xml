@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://amartyacsb.github.io/</id>
   <title>Amartya Mandal</title>
   <subtitle>blog, Amartya, AmartyCSB, github, Amartya Mandal, Mandal</subtitle>
-  <updated>2025-06-21T23:40:50-04:00</updated>
+  <updated>2025-07-12T16:44:34-04:00</updated>
   <author>
     <name>Amartya Mandal</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://amartyacsb.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://amartyacsb.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://amartyacsb.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Amartya Mandal </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,38 @@
 
   
   <entry>
+    <title>Image Comparator</title>
+    <link href="https://amartyacsb.github.io/posts/image_comparator/" rel="alternate" type="text/html" title="Image Comparator" />
+    <published>2025-07-12T04:25:10-04:00</published>
+  
+    <updated>2025-07-12T16:33:03-04:00</updated>
+  
+    <id>https://amartyacsb.github.io/posts/image_comparator/</id>
+    <content type="text/html" src="https://amartyacsb.github.io/posts/image_comparator/" />
+    <author>
+      <name>Amartya Mandal</name>
+    </author>
+
+  
+    
+    <category term="Image alignment" />
+    
+  
+
+  <summary>Image Comparator for RGB and Thermal (IR) images  Check the image comparator I have built using RGB and Thermal images: Github Link for project  Introduction Image comparator for the image alignment of 2 domains for images captured by different sensors of a drone gimbal  Description No Photoshop or online image alignment tool was used. The 2 images were captured by Drone Gimbal as part of my wo...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Facial Blurring</title>
-    <link href="http://localhost:4000/posts/facial-blur/" rel="alternate" type="text/html" title="Facial Blurring" />
+    <link href="https://amartyacsb.github.io/posts/facial-blur/" rel="alternate" type="text/html" title="Facial Blurring" />
     <published>2025-06-21T09:10:10-04:00</published>
   
     <updated>2025-06-21T09:10:10-04:00</updated>
   
-    <id>http://localhost:4000/posts/facial-blur/</id>
-    <content type="text/html" src="http://localhost:4000/posts/facial-blur/" />
+    <id>https://amartyacsb.github.io/posts/facial-blur/</id>
+    <content type="text/html" src="https://amartyacsb.github.io/posts/facial-blur/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
