@@ -19,7 +19,7 @@ tags: [Image Comparision, Alignment, Multi-modal, Image alignment, homography, t
     allowfullscreen
   ></iframe>
 </div>
-<iframe src="…/ImageComparator/" width="100%" height="600" frameborder="0"></iframe>
+
 
 
 #### Introduction
