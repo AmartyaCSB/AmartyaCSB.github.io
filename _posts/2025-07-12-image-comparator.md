@@ -8,7 +8,19 @@ tags: [Image Comparision, Alignment, Multi-modal, Image alignment, homography, t
 # Image Comparator for RGB and Thermal (IR) images
 
 ### Check the image comparator I have built using RGB and Thermal images: 
-[Github Link for project](https://amartyacsb.github.io/ImageComparator)
+[Demo](https://amartyacsb.github.io/ImageComparator)
+
+### Live Demo: RGB ∥ Thermal Comparator
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-bottom:1rem;">
+  <iframe
+    src="https://amartyacsb.github.io/ImageComparator/"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen
+  ></iframe>
+</div>
+<iframe src="…/ImageComparator/" width="100%" height="600" frameborder="0"></iframe>
+
 
 #### Introduction
 ###### Image comparator for the image alignment of 2 domains for images captured by different sensors of a drone gimbal 
