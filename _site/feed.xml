@@ -4,7 +4,7 @@
   <id>https://amartyacsb.github.io/</id>
   <title>Amartya Mandal</title>
   <subtitle>blog, Amartya, AmartyCSB, github, Amartya Mandal, Mandal</subtitle>
-  <updated>2025-07-12T16:44:34-04:00</updated>
+  <updated>2025-08-05T19:08:01-04:00</updated>
   <author>
     <name>Amartya Mandal</name>
     <uri>https://amartyacsb.github.io/</uri>
@@ -20,14 +20,38 @@
 
   
   <entry>
+    <title>LoRA - Low Rank Adaptation Insights</title>
+    <link href="https://amartyacsb.github.io/posts/image-comparator-copy/" rel="alternate" type="text/html" title="LoRA - Low Rank Adaptation Insights" />
+    <published>2025-08-05T04:25:10-04:00</published>
+  
+    <updated>2025-08-05T04:25:10-04:00</updated>
+  
+    <id>https://amartyacsb.github.io/posts/image-comparator-copy/</id>
+    <content type="text/html" src="https://amartyacsb.github.io/posts/image-comparator-copy/" />
+    <author>
+      <name>Amartya Mandal</name>
+    </author>
+
+  
+    
+    <category term="LLM" />
+    
+  
+
+  <summary>I used to think LoRA (Low-Rank Adaptation) was just another efficient fine-tuning trick, until I actually worked with it in an end-to-end CV pipeline. LoRA isn’t just efficient. It changes how we think about model ownership and modularity.  For those unfamiliar or only surface-level familiar: LoRA lets you fine-tune large models without touching their original weights. Instead, it adds tiny low...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Image Comparator</title>
-    <link href="https://amartyacsb.github.io/posts/image_comparator/" rel="alternate" type="text/html" title="Image Comparator" />
+    <link href="https://amartyacsb.github.io/posts/image-comparator/" rel="alternate" type="text/html" title="Image Comparator" />
     <published>2025-07-12T04:25:10-04:00</published>
   
-    <updated>2025-07-12T16:33:03-04:00</updated>
+    <updated>2025-07-12T17:08:46-04:00</updated>
   
-    <id>https://amartyacsb.github.io/posts/image_comparator/</id>
-    <content type="text/html" src="https://amartyacsb.github.io/posts/image_comparator/" />
+    <id>https://amartyacsb.github.io/posts/image-comparator/</id>
+    <content type="text/html" src="https://amartyacsb.github.io/posts/image-comparator/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
@@ -38,7 +62,7 @@
     
   
 
-  <summary>Image Comparator for RGB and Thermal (IR) images  Check the image comparator I have built using RGB and Thermal images: Github Link for project  Introduction Image comparator for the image alignment of 2 domains for images captured by different sensors of a drone gimbal  Description No Photoshop or online image alignment tool was used. The 2 images were captured by Drone Gimbal as part of my wo...</summary>
+  <summary>Image Comparator for RGB and Thermal (IR) images Check the image comparator I have built:   Introduction Image comparator for the image alignment of 2 domains for images captured by different sensors of a drone gimbal .  Description No Photoshop or online image alignment tool was used. The 2 images were captured by Drone Gimbal as part of my work when flying drones at commercial properties. You...</summary>
 
   </entry>
 
