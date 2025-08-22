@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Avalon Voice Agent"
 description: A browser-based voice host for The Resistance: Avalon with advanced Big Box roles, validation, and optional premium TTS.
 tags: [avalon, games, web, typescript, react, vite, tts, node, express]
