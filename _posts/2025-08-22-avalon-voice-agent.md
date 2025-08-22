@@ -1,8 +1,8 @@
 ---
 title: "Avalon Voice Agent"
-description: A browser-based voice host for The Resistance: Avalon with advanced Big Box roles, validation, and optional premium TTS.
+date: 2025-08-22 13:45:10 +0800
+categories: [projects]
 tags: [avalon, games, web, typescript, react, vite, tts, node, express]
-categories: projects
 ---
 
 **Intro**: I built a voice agent that narrates the Avalon setup reveal stage with configurable roles along with advanced roles of Avalon Bigbox, speed controls, repeats, and seat validation. It runs fully in the browser with a server option for premium Text to Speech (TTS)

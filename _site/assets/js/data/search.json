@@ -1,10 +1,10 @@
 [
   {
-    "title": null,
-    "url": "/posts/2025-08-22-avalon-voice-agent/",
-    "categories": "",
-    "tags": "",
-    "date": "2025-08-22 13:39:19 -0400",
+    "title": "Avalon Voice Agent",
+    "url": "/posts/avalon-voice-agent/",
+    "categories": "projects",
+    "tags": "avalon, games, web, typescript, react, vite, tts, node, express",
+    "date": "2025-08-22 01:45:10 -0400",
     "content": "Intro: I built a voice agent that narrates the Avalon setup reveal stage with configurable roles along with advanced roles of Avalon Bigbox, speed controls, repeats, and seat validation. It runs fu..."
   },
   {
