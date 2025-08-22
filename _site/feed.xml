@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://amartyacsb.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>Amartya Mandal</title>
   <subtitle>blog, Amartya, AmartyCSB, github, Amartya Mandal, Mandal</subtitle>
-  <updated>2025-08-05T19:11:24-04:00</updated>
+  <updated>2025-08-22T13:39:19-04:00</updated>
   <author>
     <name>Amartya Mandal</name>
-    <uri>https://amartyacsb.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://amartyacsb.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://amartyacsb.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Amartya Mandal </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,36 @@
 
   
   <entry>
+    <title></title>
+    <link href="http://localhost:4000/posts/2025-08-22-avalon-voice-agent/" rel="alternate" type="text/html" title="" />
+    <published>2025-08-22T13:39:19-04:00</published>
+  
+    <updated>2025-08-22T13:39:19-04:00</updated>
+  
+    <id>http://localhost:4000/posts/2025-08-22-avalon-voice-agent/</id>
+    <content type="text/html" src="http://localhost:4000/posts/2025-08-22-avalon-voice-agent/" />
+    <author>
+      <name>Amartya Mandal</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Intro: I built a voice agent that narrates the Avalon setup reveal stage with configurable roles along with advanced roles of Avalon Bigbox, speed controls, repeats, and seat validation. It runs fully in the browser with a server option for premium Text to Speech (TTS)  Why I love playing Avalon with my close friends in Atlanta and wanted a zero-rule-lookup. I’m planning to build a discord styl...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>LoRA - Low Rank Adaptation Insights</title>
-    <link href="https://amartyacsb.github.io/posts/LoRA/" rel="alternate" type="text/html" title="LoRA - Low Rank Adaptation Insights" />
+    <link href="http://localhost:4000/posts/LoRA/" rel="alternate" type="text/html" title="LoRA - Low Rank Adaptation Insights" />
     <published>2025-08-05T04:25:10-04:00</published>
   
     <updated>2025-08-05T04:25:10-04:00</updated>
   
-    <id>https://amartyacsb.github.io/posts/LoRA/</id>
-    <content type="text/html" src="https://amartyacsb.github.io/posts/LoRA/" />
+    <id>http://localhost:4000/posts/LoRA/</id>
+    <content type="text/html" src="http://localhost:4000/posts/LoRA/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
@@ -45,13 +67,13 @@
   
   <entry>
     <title>Image Comparator</title>
-    <link href="https://amartyacsb.github.io/posts/image-comparator/" rel="alternate" type="text/html" title="Image Comparator" />
+    <link href="http://localhost:4000/posts/image-comparator/" rel="alternate" type="text/html" title="Image Comparator" />
     <published>2025-07-12T04:25:10-04:00</published>
   
     <updated>2025-07-12T17:08:46-04:00</updated>
   
-    <id>https://amartyacsb.github.io/posts/image-comparator/</id>
-    <content type="text/html" src="https://amartyacsb.github.io/posts/image-comparator/" />
+    <id>http://localhost:4000/posts/image-comparator/</id>
+    <content type="text/html" src="http://localhost:4000/posts/image-comparator/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
@@ -69,13 +91,13 @@
   
   <entry>
     <title>Facial Blurring</title>
-    <link href="https://amartyacsb.github.io/posts/facial-blur/" rel="alternate" type="text/html" title="Facial Blurring" />
+    <link href="http://localhost:4000/posts/facial-blur/" rel="alternate" type="text/html" title="Facial Blurring" />
     <published>2025-06-21T09:10:10-04:00</published>
   
     <updated>2025-06-21T09:10:10-04:00</updated>
   
-    <id>https://amartyacsb.github.io/posts/facial-blur/</id>
-    <content type="text/html" src="https://amartyacsb.github.io/posts/facial-blur/" />
+    <id>http://localhost:4000/posts/facial-blur/</id>
+    <content type="text/html" src="http://localhost:4000/posts/facial-blur/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
