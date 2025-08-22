@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Amartya Mandal</title>
   <subtitle>blog, Amartya, AmartyCSB, github, Amartya Mandal, Mandal</subtitle>
-  <updated>2025-08-22T13:39:19-04:00</updated>
+  <updated>2025-08-22T13:47:41-04:00</updated>
   <author>
     <name>Amartya Mandal</name>
     <uri>http://localhost:4000/</uri>
@@ -20,19 +20,21 @@
 
   
   <entry>
-    <title></title>
-    <link href="http://localhost:4000/posts/2025-08-22-avalon-voice-agent/" rel="alternate" type="text/html" title="" />
-    <published>2025-08-22T13:39:19-04:00</published>
+    <title>Avalon Voice Agent</title>
+    <link href="http://localhost:4000/posts/avalon-voice-agent/" rel="alternate" type="text/html" title="Avalon Voice Agent" />
+    <published>2025-08-22T01:45:10-04:00</published>
   
-    <updated>2025-08-22T13:39:19-04:00</updated>
+    <updated>2025-08-22T13:41:19-04:00</updated>
   
-    <id>http://localhost:4000/posts/2025-08-22-avalon-voice-agent/</id>
-    <content type="text/html" src="http://localhost:4000/posts/2025-08-22-avalon-voice-agent/" />
+    <id>http://localhost:4000/posts/avalon-voice-agent/</id>
+    <content type="text/html" src="http://localhost:4000/posts/avalon-voice-agent/" />
     <author>
       <name>Amartya Mandal</name>
     </author>
 
   
+    
+    <category term="projects" />
     
   
 
